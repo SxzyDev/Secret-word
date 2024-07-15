@@ -19,4 +19,4 @@ Se você deseja melhorar o jogo, sinta-se à vontade para enviar um pull request
 # Autor
 - Seu Nome: Eduardo
 - Contato: Sxzycontato@gmail.com
-- GitHub: SxzDev
+- GitHub: SxzyDev
